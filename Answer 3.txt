@@ -1,0 +1,19 @@
+//SPDX-License-Identifier: MIT
+pragma solidity ^0.8.17;
+
+contract LocalVariables
+{
+    uint public firstvariable;
+    bool public secondvariable;
+    address public myAddress;
+
+    function localvariables() external
+    {
+        uint Mynumber = 123;
+        bool Myboolean = false;
+ 
+        Mynumber = Mynumber + 123;
+        Myboolean = true;
+        myAddress = address(1);
+    }
+}

@@ -1,0 +1,23 @@
+Solidity is a programing language specifically designed for developing for smart contracts on Ethereum blockchain
+Reasons are as follows:
+
+Ethereum is one of the most widely used blockchains
+Solidity is the most popular programing language for developing smart contracts on ethereum blockchain.
+it is used for developing decenterlized apps (dApps) on ethereum
+
+Easy to Learn:
+Solidity is similar to javaScript, so if tou are familiar with javaScript,then you should able to learn solidity relatively easily.Solidity also has good documenetation
+and is growing devloper community.Easily find resources and get help when needed
+
+Safety:
+Solidity is designed for security.
+It has features that help prevent common security vulnerabilities such as reentrancy attacks.
+Interger overflow and Underflow etc. Solidity also has a built-in testing framework.The developer detects errors and ensures the security of his contracts smartly.
+
+Efficient:
+Solidity is desinged to be efficient, so write smart contracts efficiently.Solidity runs quickly and consumes minimal resources. This is important for dApps that require processing
+and high volume of transactions.
+
+Open Source:
+Solidity is open source.This means that anyone can contribute to its development and use it and it is free.This has resulted in a large and active community of devlopers continously improving
+and improvig Solidity.And build new tools,frameworks and features for it. 
